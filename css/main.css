@@ -61,3 +61,4 @@ ul li {padding: 6px 8px; text-transform: uppercase;}
 .inprogress li:nth-child(odd) {background-color: maroon;}
 
 .done li:nth-child(odd) {background-color: darkgreen;}
+/* adding some stuff */
