@@ -32,14 +32,14 @@ input[type="checkbox"] {margin-right: 8px;}
 
 input[type="checkbox"]:checked::after {
     content: '\272D';
-    height: 100px;
-    width: 100px;
+    height: 20px;
+    width: 20px;
     border: 80%;
     background-color: lightgreen;
     border: 2px solid green;
     position: relative;
     top: -10px;
-    right: -400px;
+    right: -300px;
     font-size: 1.5em;
 
     animation: fadeIn 0.5s;
